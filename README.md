@@ -13,6 +13,6 @@ splice junctions, and long read RNAseq alignments.
 - evaluate evidence supporting alternative splicing
 
 ### 
-- **UJCanno:** Transcripts with fully annotated junctions (UJC in the five species annotation)
-- **ERPanno:** Transcripts with annotated Exon Region Pattern and at least 1 novel junction (ERP in the five species annotation)
-- **ERPnovel:** Transcripts with a novel Exon Region Pattern (neither UJC nor ERP in the five species annotation)
+- **UJCanno:** Observed transcripts that correspond to an annotated transcript model in the fiveSpecies annotation
+- **ERPanno:** Observed transcripts that contain a set of exons consistent with an annotated set of exons
+- **ERPnovel:** Observed transcripts that contain a set of exons not previously reported to co-occur
