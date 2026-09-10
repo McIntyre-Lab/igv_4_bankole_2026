@@ -2,6 +2,8 @@
 
 **Website:** https://bio.rc.ufl.edu/pub/mcintyre/sex_specific_splicing/igv/index.html
 
+**If you use this viewer in your research, please cite: bioRxiv 2026.05.25.727716; doi: https://doi.org/10.64898/2026.05.25.727716**
+
 ### Tracks
 The IGV tracks provide a visual representation of transcript models,
 splice junctions, and long read RNAseq alignments.
